@@ -23,3 +23,20 @@ This measures how quickly employees respond to tasks
 
 
 ![Dashboard Preview](https://github.com/user-attachments/assets/1c32483f-afdf-4e6f-816e-61197d7a1c76)
+
+# Insights from dashboard
+* High performing employees have a task completion rate of 80%
+* Departments with low engagement have lower response times
+* Leadership messages with higher read rates improve engagement.
+
+
+# Tools Used
+* Power BI- For data visualization and reporting.
+* DAX(Data Analysis Expression)- For calculated measures and KPIs.
+* Power Query- For data transformation.
+
+
+
+
+# CREATED BY MAYOR O CHIAMAKA
+
